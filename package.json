@@ -1,0 +1,22 @@
+{
+  "name": "projeto01",
+  "version": "1.0.0",
+  "description": "Primeiro programa de perguntas e respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talles Nicacio",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "chalk": "^5.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "handlebars": "^4.7.7",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.1.1",
+    "sequelize": "^6.13.0"
+  }
+}
